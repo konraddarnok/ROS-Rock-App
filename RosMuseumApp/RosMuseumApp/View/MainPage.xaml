@@ -13,10 +13,9 @@
 
         <StackPanel>
             <Button HorizontalAlignment="Left"  Height="58" Margin="0,0,0,0" VerticalAlignment="Center" Width="83" Click="Button_Click" Content="Knap" />
-            <TextBlock HorizontalAlignment="Stretch" Height="123" Margin="0,0,0,0" VerticalAlignment="Stretch" >
-
-            </TextBlock>
+            <TextBlock Height="123" Margin="0,0,0,0" />
             <Image HorizontalAlignment="Stretch"  Height="100" Margin="0,0,0,0" VerticalAlignment="Stretch"/>
+            <Button HorizontalAlignment="Center" Height="58" Margin="100,100,59,50" VerticalAlignment="Center" Width="83" Click="Button_Click" Content="Knap2" />
 
         </StackPanel>
 
