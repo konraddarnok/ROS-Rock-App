@@ -10,6 +10,14 @@
 
     <Grid>
         
-        <Button Content="Button" HorizontalAlignment="Left" Margin="75,60,0,0" VerticalAlignment="Top"/>
+
+        <StackPanel>
+            <Button />
+            <TextBlock >
+                
+            </TextBlock>
+
+        </StackPanel>
+
     </Grid>
 </Page>
