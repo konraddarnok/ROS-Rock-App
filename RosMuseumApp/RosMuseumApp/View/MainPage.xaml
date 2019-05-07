@@ -15,11 +15,6 @@
             <Button HorizontalAlignment="Left"  Height="58" Margin="0,0,0,0" VerticalAlignment="Center" Width="83" Click="Button_Click" Content="Knap" />
             <TextBlock Height="123" Margin="0,0,0,0" />
             <Image HorizontalAlignment="Stretch"  Height="100" Margin="0,0,0,0" VerticalAlignment="Stretch"/>
-            <Button HorizontalAlignment="Left" Height="58" Margin="729,100,0,50" VerticalAlignment="Top" Width="83" Click="Button_Click" Content="Knap2" RenderTransformOrigin="-3.964,1.793" >
-                <Button.RenderTransform>
-                    <CompositeTransform Rotation="-185.111"/>
-                </Button.RenderTransform>
-            </Button>
 
         </StackPanel>
 
